@@ -5,18 +5,13 @@
         "github": "cgentemann"
     },
     {
-        "name": "Tasha Snow",
-        "organization": "Colorado School of Mines",
-        "github": "tsnow03"
+        "name": "Jordi Isern-Fontanet",
+        "organization": "ICM-CSIC",
+        "github": "jisernfontanet"
     },
     {
         "name": "James Munroe",
         "organization": "Memorial University of Newfoundland",
         "github": "jmunroe"
-    },
-      {
-        "name": "Edward Armstrong",
-        "organization": "NASA JPL PO.DAAC / CalTech ",
-        "github": "edshred2000"
-    },
+    }
 ]
